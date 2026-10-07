@@ -1,6 +1,6 @@
 # Hi, I'm Ben Sprankle
 
-I'm a Computer Science student at **California Baptist University**, concentrating in **AI and Machine Learning** and expecting to graduate in **summer 2027**. I'm looking for internship opportunities in software development and applied AI.
+I'm a Computer Science student at **California Baptist University**, concentrating in **AI and Machine Learning** and expecting to graduate in **summer 2028**. I'm looking for internship opportunities in software development and applied AI.
 
 I enjoy building things I can actually use: a webcam-controlled CAD tool, a community app, and a game my grandparents can play.
 
